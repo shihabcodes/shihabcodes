@@ -25,7 +25,7 @@ role       : Full Stack Engineer & Competitive Programmer
 university : North South University, Dhaka 🇧🇩
 stack      : React · Node.js · MongoDB · Firebase
 interests  : Scalable Systems · Open Source · Algorithms
-available  : Open to internships & collaborations
+available  : Open to full-time roles, internships & collaborations
 ```
 
 > *"I don't just write code — I architect solutions. Every line is intentional."*
@@ -87,15 +87,15 @@ I write technical articles on **Medium** — because the best way to understand 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shihabcodes&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihabcodes&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shihabcodes&theme=github_dark" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihabcodes&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=shihabcodes&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="60%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihabcodes&theme=github-compact&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihabcodes&theme=react-dark&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -117,7 +117,7 @@ I write technical articles on **Medium** — because the best way to understand 
 
 ### Let's build something that matters.
 
-*Whether you're a recruiter, collaborator, or fellow builder — I'm always open to a good conversation.*
+*Whether you're a recruiter, collaborator, or fellow builder — I'm open to full-time roles, internships, and good conversations.*
 <br/>
 📬 **shihab.hossain02@northsouth.edu**
 
