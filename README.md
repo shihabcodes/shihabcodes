@@ -2,7 +2,7 @@
 
 Software Engineer & Systems Architect. 
 
-[linkedin](https://linkedin.com/in/mdshihabhossain) / [x (twitter)](https://twitter.com/shihabcodes) / [email](mailto:shihab.hossain02@northsouth.edu)
+[linkedin](https://linkedin.com/in/shihabcodes) / [x (twitter)](https://twitter.com/shihabcodes) / [email](mailto:shihab.hossain02@northsouth.edu)
 
 ---
 
