@@ -2,7 +2,7 @@
 
 Software Engineer & Systems Architect. 
 
-[linkedin](https://linkedin.com/in/shihabcodes) / [x (twitter)](https://twitter.com/shihabcodes) / [email](mailto:shihab.hossain02@northsouth.edu)
+[website](https://mdshihabhossain.com) / [linkedin](https://linkedin.com/in/shihabcodes) / [x (twitter)](https://twitter.com/shihabcodes) / [email](mailto:shihab.hossain02@northsouth.edu) / [alt email](mailto:shihabcodes@gmail.com)
 
 ---
 
@@ -30,4 +30,4 @@ Writing scalable systems requires a solid mathematical and algorithmic foundatio
 
 ---
 
-*[shihab.hossain02@northsouth.edu](mailto:shihab.hossain02@northsouth.edu)*
+*[mdshihabhossain.com](https://mdshihabhossain.com) • [shihab.hossain02@northsouth.edu](mailto:shihab.hossain02@northsouth.edu) • [shihabcodes@gmail.com](mailto:shihabcodes@gmail.com)*
