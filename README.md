@@ -1,33 +1,42 @@
 # Md Shihab Hossain
 
-Technical ops generalist — I build AI automations (RAG, agents, LLM pipelines) and run founder-level operations for early-stage teams.
+AI Engineer & Full-Stack Developer specializing in multimodal RAG systems, autonomous agent architectures, context engineering, and high-velocity workflow automation.
 
-[website](https://mdshihabhossain.com) · [linkedin](https://linkedin.com/in/shihabcodes) · [email](mailto:shihabcodes@gmail.com)
+[Portfolio](https://shihabcodes.github.io) · [LinkedIn](https://linkedin.com/in/shihabcodes) · [Email](mailto:shihabcodes@gmail.com)
 
-📍 Dhaka, Bangladesh (+6 UTC — my evening is your morning, so you never wait a day for a follow-up)
-
----
-
-### `/now`
-
-- Final-semester CS student @ North South University (graduating 2027)
-- Backend engineering intern @ Springer Capital (US proptech, remote) — Node/Python services, Postgres, Redis
-- Open to: **Technical Founder's Associate · technical ops · founding-engineer** roles, fully remote
-
-### `/selected work`
-
-- **[DevChat](https://github.com/shihabcodes/DevChat)** — real-time chat built for developers: code sharing with syntax highlighting, streamed AI code explanations. Next.js · Socket.io · OpenAI · Redis · MongoDB → [live demo](https://dev-chat-virid.vercel.app)
-- **[Cogniflow AI](https://github.com/shihabcodes/Cogniflow_AI)** — a RAG engine for your media: query YouTube videos, podcasts, and PDFs and get cited answers. v1 shipped (YouTube summarizer), v2 (multimodal retrieval) in active development
-- **[md-converter](https://github.com/shihabcodes/md-converter)** — free online Markdown → PDF/DOCX converter
-
-### `/the ops side`
-
-As Head of BD at Reputonnaire, I built the outbound engine — 4-touch cold sequences and developer-sourcing workflows — that generated 150+ leads/week and informed the company's pivot to a $149/mo B2B SaaS. I write outreach that books calls, and I build the automations that keep the pipeline full.
-
-### `/stack`
-
-TypeScript · Python · Next.js/React · Node/Express · PostgreSQL · MongoDB · Redis · OpenAI & Gemini APIs · RAG pipelines · Vercel · AWS · Git
+📍 Dhaka, Bangladesh (+6 UTC) · Open to AI Engineer, Founding AI Engineer, and Full-Stack AI Developer roles (Remote / Global)
 
 ---
 
-Want the founder-associate version of this story in 60 seconds? Email me — [shihabcodes@gmail.com](mailto:shihabcodes@gmail.com)
+### `/about`
+
+- **Education**: Bachelor of Science in Computer Science and Engineering @ North South University (Graduating 2027)
+- **Focus**: Building production AI applications with state-of-the-art foundation models (Gemini 2.0, GPT-4o), vector retrieval engines, and real-time architectures
+- **Open to**: AI Engineer · Founding AI Engineer · Full-Stack AI Developer roles
+
+---
+
+### `/flagship projects`
+
+- **[Cogniflow AI](https://github.com/shihabcodes/Cogniflow_AI)**: Multimodal RAG system for media and documents. Ingests YouTube videos, PDFs, and notes using 768-dimensional vector embeddings with cosine similarity, generating answers with second-exact timestamp citations. Built with Next.js 15, Google Gemini 2.0 Flash/Pro, client-side IndexedDB vector engine, and automated multimodal video understanding fallbacks. → [Live App](https://cogniflow-ai-eight.vercel.app)
+- **[DevChat](https://github.com/shihabcodes/DevChat)**: Developer-first real-time communication platform with streamed AI code explanations. Features sub-50ms WebSocket latency, syntax highlighting, and persistent channels. Built with Next.js, OpenAI API, Socket.io, Redis Pub/Sub, and MongoDB. → [Live Demo](https://dev-chat-virid.vercel.app)
+
+---
+
+### `/ai & engineering stack`
+
+- **Foundation Models & Context**: Gemini 2.0 (Flash & Pro), GPT-4o, Claude 3.5, Prompt Engineering (CoT, ReAct, Few-Shot), Function Calling / Tool Use, Structured Outputs (JSON Schema / Pydantic), Model Fallbacks & Rollovers
+- **RAG & Vector Retrieval**: Multimodal RAG, 768-dim Vector Embeddings, Cosine Similarity, Semantic Chunking, pgvector, Browser Vector Store (IndexedDB), Hybrid Search, Second-Exact Timestamp Citations
+- **AI Agents & Orchestration**: Multi-Agent Systems, Agent Planning & Reasoning, Tool Calling, State & Memory Persistence, LangChain & LlamaIndex Patterns, Self-Correction & Reflection, Guardrails
+- **Full-Stack & Real-Time**: Next.js 15 (App Router, Server Actions), React 19, TypeScript, Python (Asyncio, OOP, Typing), WebSockets / Socket.io, REST & GraphQL APIs, Tailwind CSS
+- **Data & Infrastructure**: PostgreSQL (pgvector), MongoDB, Redis (Pub/Sub & Caching), Docker, Vercel Serverless & Edge, Git & GitHub CI/CD, Linux
+- **Automation & Pipelines**: Headless Web Scraping (Puppeteer, Cheerio), Multimodal Video Fallback Pipelines, Automated Outbound & Growth Workflows, Webhooks, ETL Data Pipelines, Task Scheduling & Cron
+
+---
+
+### `/contact`
+
+Looking to build next-generation AI products or intelligent systems? Let's connect:
+- Email: [shihabcodes@gmail.com](mailto:shihabcodes@gmail.com)
+- Portfolio: [shihabcodes.github.io](https://shihabcodes.github.io)
+- LinkedIn: [linkedin.com/in/shihabcodes](https://linkedin.com/in/shihabcodes)
