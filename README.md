@@ -1,33 +1,33 @@
 # Md Shihab Hossain
 
-Software Engineer & Systems Architect. 
+Technical ops generalist — I build AI automations (RAG, agents, LLM pipelines) and run founder-level operations for early-stage teams.
 
-[website](https://mdshihabhossain.com) / [linkedin](https://linkedin.com/in/shihabcodes) / [x (twitter)](https://twitter.com/shihabcodes) / [email](mailto:shihab.hossain02@northsouth.edu) / [alt email](mailto:shihabcodes@gmail.com)
+[website](https://mdshihabhossain.com) · [linkedin](https://linkedin.com/in/shihabcodes) · [email](mailto:shihabcodes@gmail.com)
+
+📍 Dhaka, Bangladesh (+6 UTC — my evening is your morning, so you never wait a day for a follow-up)
 
 ---
 
-### `/about`
+### `/now`
 
-I build robust, high-performance systems. My core engineering philosophy is simple: **code is a liability, architecture is an asset**. I specialize in scalable backend infrastructure, precision-engineered frontends, and aggressive algorithmic optimization. 
+- Final-semester CS student @ North South University (graduating 2027)
+- Backend engineering intern @ Springer Capital (US proptech, remote) — Node/Python services, Postgres, Redis
+- Open to: **Technical Founder's Associate · technical ops · founding-engineer** roles, fully remote
 
-- **status:** Actively seeking Full-Time Software Engineering roles.
-- **focus:** Distributed Systems, Scalable API Design, Cloud-native architectures.
+### `/selected work`
+
+- **[DevChat](https://github.com/shihabcodes/DevChat)** — real-time chat built for developers: code sharing with syntax highlighting, streamed AI code explanations. Next.js · Socket.io · OpenAI · Redis · MongoDB → [live demo](https://dev-chat-virid.vercel.app)
+- **[Cogniflow AI](https://github.com/shihabcodes/Cogniflow_AI)** — a RAG engine for your media: query YouTube videos, podcasts, and PDFs and get cited answers. v1 shipped (YouTube summarizer), v2 (multimodal retrieval) in active development
+- **[md-converter](https://github.com/shihabcodes/md-converter)** — free online Markdown → PDF/DOCX converter
+
+### `/the ops side`
+
+As Head of BD at Reputonnaire, I built the outbound engine — 4-touch cold sequences and developer-sourcing workflows — that generated 150+ leads/week and informed the company's pivot to a $149/mo B2B SaaS. I write outreach that books calls, and I build the automations that keep the pipeline full.
 
 ### `/stack`
 
-I optimize for tools that are battle-tested and enable high velocity. No hype, just technologies that ship reliable software.
-
-- **languages:** TypeScript, JavaScript, C++, Java
-- **infrastructure & data:** Node.js, PostgreSQL, MongoDB, Docker, AWS, Linux
-- **frontend:** React, Next.js, Tailwind CSS
-
-### `/algorithms`
-
-Writing scalable systems requires a solid mathematical and algorithmic foundation. I actively maintain sharp problem-solving intuition through competitive programming.
-
-- **[LeetCode](https://leetcode.com/shihabcodes)** — Algorithmic optimization and graph theory.
-- **[Codeforces](https://codeforces.com/profile/shihabcodes)** — High-pressure competitive data structures.
+TypeScript · Python · Next.js/React · Node/Express · PostgreSQL · MongoDB · Redis · OpenAI & Gemini APIs · RAG pipelines · Vercel · AWS · Git
 
 ---
 
-*[mdshihabhossain.com](https://mdshihabhossain.com) • [shihab.hossain02@northsouth.edu](mailto:shihab.hossain02@northsouth.edu) • [shihabcodes@gmail.com](mailto:shihabcodes@gmail.com)*
+Want the founder-associate version of this story in 60 seconds? Email me — [shihabcodes@gmail.com](mailto:shihabcodes@gmail.com)
